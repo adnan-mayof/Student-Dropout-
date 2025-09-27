@@ -1,5 +1,8 @@
 **🎓 Student Dropout Dashboard (Tableau)**
 
+View the live dashboard here:
+https://public.tableau.com/views/StudentDropout/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 **Introduction**
 This project presents an interactive Tableau dashboard that explores undergraduate student dropout patterns. The dashboard provides a visual, data-driven perspective on how dropout status is distributed across student demographics, academic performance, and socio-economic information.
 
