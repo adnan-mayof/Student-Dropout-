@@ -9,7 +9,13 @@
 
 **Filter by Dropout Status (Yes / No):** <img width="1137" height="142" alt="image" src="https://github.com/user-attachments/assets/5f8864f0-9058-4b1b-bbe5-7441ab24abfd" />
 
-This filter lets you toggle between:
+When you click:
+
+Yes → You will see which courses have the highest dropout rates and how dropout students are distributed across other factors.
+
+No → You will see which courses have no or very low dropout and how continuing students are distributed.
+
+In other words, the filter lets you toggle between:
 
 * **Students who dropped out**
 * **Students who continued**
@@ -95,5 +101,4 @@ For extended analysis and statistical modeling, visit the companion repository:
 [Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)
 
 ---
-
-Would you like me to also prepare a **shorter “About this project” summary (3–4 lines)** that you can paste into GitHub’s repo description box so people see it immediately without scrolling?
+ 
