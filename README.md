@@ -2,6 +2,16 @@
 View the live dashboard here: [Student Dropout Dashboard on Tableau Public](https://public.tableau.com/views/StudentDropout/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+**Available Filter:**
+
+* Dropout Status (Yes / No)
+
+[Insert Dropout Filter Image Here]
+<img width="1137" height="142" alt="image" src="https://github.com/user-attachments/assets/5f8864f0-9058-4b1b-bbe5-7441ab24abfd" />
+
+This filter allows users to toggle between students who dropped out and those who continued, updating all charts in the dashboard.
+
+
 **Introduction**
 This project presents an interactive Tableau dashboard that explores undergraduate student dropout patterns. The dashboard provides a visual, data-driven perspective on how dropout status is distributed across student demographics, academic performance, and socio-economic information.
 
@@ -33,15 +43,7 @@ If you’d like to learn more about the dataset, its features, and detailed mode
 **Tableau Dashboard**
 The Tableau dashboard transforms these variables into interactive visualizations, with one main filter for exploration:
 
-**Available Filter:**
-
-* Dropout Status (Yes / No)
-
-[Insert Dropout Filter Image Here]
-<img width="1137" height="142" alt="image" src="https://github.com/user-attachments/assets/5f8864f0-9058-4b1b-bbe5-7441ab24abfd" />
-
-
-This filter allows users to toggle between students who dropped out and those who continued, updating all charts in the dashboard.
+ 
 
 **Insights**
 Exploration through the dashboard highlights six important variables related to dropout:
