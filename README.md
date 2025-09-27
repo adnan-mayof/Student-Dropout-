@@ -19,13 +19,8 @@ The dashboard is interactive and allows you to filter the data.
 
 When you click:
 
-* **Yes** → You will see which courses have the **highest dropout rates** and how dropout students are distributed across other factors.
-* **No** → You will see which courses have **no or very low dropout** and how continuing students are distributed.
-
-In other words, the filter lets you toggle between:
-
-* Students who **dropped out**
-* Students who **continued**
+* **Yes** → You will see, for example, which courses have the **highest dropout rates**.
+* **No** → You will see which courses have **no or very low dropout**.
 
 All visualizations update automatically when the filter changes.
 
@@ -42,7 +37,7 @@ By visualizing dropout patterns, universities can detect **risk signals** early 
 
 ## 3. **What question does it answer?**
 
-* What differences can be observed between students who drop out and those who persist in their studies?
+* What are the factors contributing to student dropout? *
 
 ---
 
