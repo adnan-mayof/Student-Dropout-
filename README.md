@@ -1,27 +1,84 @@
-# Student-Dropout-
+Perfect 👍 — here’s the updated **README.md** with a cross-reference to your logistic regression repo for readers who want to go deeper into the dataset and analysis:
 
+```markdown
+# 🎓 Student Dropout Dashboard (Tableau)
 
-# Student Dropout Dashboard (Tableau)
+## Introduction  
+This project presents an **interactive Tableau dashboard** that explores undergraduate student dropout patterns. The dashboard provides a **visual, data-driven perspective** on how dropout status is distributed across student demographics, academic performance, and socio-economic information.  
 
-A compact Tableau project exploring **student dropout patterns** using institutional data, with filters for dropout status, course, fees, scholarship, age at enrollment, application mode, and grades. The repository includes the packaged Tableau workbook (`.twbx`), data files, a static preview image, and a PDF/slide handout.
+The goal is to give educational institutions an accessible tool to:  
+- Examine how dropout relates to different factors.  
+- Explore dropout versus non-dropout populations interactively.  
+- Support evidence-based planning, resource allocation, and early interventions.  
 
-![Dashboard preview](assets/Dashboard%201.png)
+---
 
-## 🔎 Available Filters in the Dashboard
-Users can interactively explore dropout patterns using the following filters:  
+## Problem Statement  
+Student dropout is a critical challenge for universities, affecting both student outcomes and institutional performance. Understanding the **distribution of dropout vs. non-dropout students** allows decision-makers to identify risk areas and target support services more effectively.  
 
+---
+
+## Key Question  
+- What differences can be observed between students who drop out and those who persist in their studies?  
+
+---
+
+## Dataset  
+The data comes from the **VALORIZA Research Center and Polytechnic Institute of Portalegre**, originally shared on Kaggle. It includes:  
+- **Demographics** (e.g., age, application mode)  
+- **Socio-economic status** (scholarship, tuition fees up to date)  
+- **Academic records** (course enrollment, grades, curricular units per semester)  
+
+This dataset was designed to study **dropout and success rates** across undergraduate programs.  
+
+👉 If you’d like to learn more about the dataset, its features, and detailed modeling work, check out this companion repository:  
+[Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)  
+
+---
+
+## Tableau Dashboard  
+The Tableau dashboard transforms these variables into **interactive visualizations**, with one main filter for exploration:  
+
+### 🔎 Available Filter  
 - **Dropout Status** (Yes / No)  
-  ![Dropout Filter](assets/975cc671-9a73-46c1-ab66-39e521566f0b.png)  
-- **Course** — Academic program enrolled  
-- **Tuition Fees Up to Date** — Whether the student is current with payments  
-- **Scholarship Holder** — Scholarship status (Yes / No)  
-- **Application Mode** — Admission path (e.g., regular, special entry)  
-- **Age at Enrollment** — Student’s age when joining the program  
-- **Curricular Units 2nd Semester** — Number of enrolled or approved units (performance indicator)  
 
-## What’s inside
-- **viz/Student Dropout.twbx** — Packaged Tableau workbook (open directly in Tableau Desktop).  
-- **data/** — Source data used to build the dashboard (`Filter_data.csv`, `Filter.xlsx`).  
-- **assets/** — Static assets for the README (PNG preview, filter images).  
-- **docs/** — Shareable artifacts (dashboard PDF export, presentation deck).  
-- **src/** — Placeholder for any preprocessing scripts you may add later.
+📌 *[Insert Dropout Filter Image Here — e.g., `assets/dropout_filter.png`]*  
+
+This filter allows users to toggle between students who **dropped out** and those who **continued**, updating all charts in the dashboard.  
+
+---
+
+## Insights  
+Exploration through the dashboard highlights six important variables related to dropout:  
+- Application Mode  
+- Tuition Fees Up to Date  
+- Age at Enrollment  
+- Course  
+- Scholarship Holder  
+- Curricular Units (2nd Semester Grade)  
+
+By switching the **Dropout filter**, institutions can observe how these variables differ between dropout and non-dropout groups.  
+
+---
+
+## 🎯 Audience & Who Would Benefit  
+This dashboard is designed for stakeholders in higher education who want to **understand and reduce student dropout rates**. Potential users include:  
+
+- **University administrators** — to support strategic planning and resource allocation.  
+- **Advisors and counselors** — to identify at-risk students earlier and guide interventions.  
+- **Faculty and program coordinators** — to monitor dropout trends within specific courses or programs.  
+- **Policy makers and education researchers** — to evaluate institutional effectiveness and inform policies on student success.  
+
+---
+
+## Conclusion  
+This Tableau dashboard provides a **visual decision-support tool** for understanding student dropout. Educational leaders can use it to:  
+- Compare dropout vs. non-dropout groups.  
+- Identify risk factors visually.  
+- Enhance retention strategies with clear, evidence-based insights.  
+
+👉 For extended analysis and statistical modeling of the same dataset, please visit the companion repository:  
+[Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)  
+```
+
+Do you want me to also **link this Tableau repo back** from your Logistic Regression repo (so they point to each other), making a connected project pair?
