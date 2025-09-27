@@ -36,6 +36,8 @@ The Tableau dashboard transforms these variables into interactive visualizations
 * Dropout Status (Yes / No)
 
 [Insert Dropout Filter Image Here]
+<img width="1137" height="142" alt="image" src="https://github.com/user-attachments/assets/5f8864f0-9058-4b1b-bbe5-7441ab24abfd" />
+
 
 This filter allows users to toggle between students who dropped out and those who continued, updating all charts in the dashboard.
 
