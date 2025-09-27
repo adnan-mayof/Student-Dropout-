@@ -32,6 +32,7 @@ All visualizations update automatically when the filter changes.
 
 ---
 
+
 ## 2. **Why does it matter?**
 
 Student dropout is a major concern for higher education. It disrupts individual academic journeys, drains institutional resources, and impacts long-term planning.
