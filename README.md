@@ -37,7 +37,7 @@ By visualizing dropout patterns, universities can detect **risk signals** early 
 
 ## 3. **What question does it answer?**
 
-* What are the factors contributing to student dropout? *
+* What are the factors contributing to student dropout?
 
 ---
 
