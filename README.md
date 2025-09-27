@@ -2,11 +2,7 @@
 View the live dashboard here: [Student Dropout Dashboard on Tableau Public](https://public.tableau.com/views/StudentDropout/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-**Available Filter:**
-
-* Dropout Status (Yes / No)
-
-[Insert Dropout Filter Image Here]
+** Note: Filter by Dropout Status (Yes / No)**
 <img width="1137" height="142" alt="image" src="https://github.com/user-attachments/assets/5f8864f0-9058-4b1b-bbe5-7441ab24abfd" />
 
 This filter allows users to toggle between students who dropped out and those who continued, updating all charts in the dashboard.
