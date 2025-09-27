@@ -1,4 +1,3 @@
----
 
 # 🎓 Student Dropout Dashboard (Tableau)
 
@@ -100,5 +99,4 @@ The Tableau dashboard is a **visual decision-support tool** for addressing stude
 For extended analysis and statistical modeling, continue here:
 [Logistic Regression Predicting Student Dropout](https://github.com/adnan-mayof/Logistic-Regression-predicting-Student-Dropout)
 
----
  
